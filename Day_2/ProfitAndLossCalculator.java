@@ -1,7 +1,5 @@
-/**
- * This class calculates profit and profit percentage given cost and selling prices.
- */
-public class ProfitCalculator {
+//This class calculates profit and profit percentage given cost and selling prices.
+public class ProfitAndLossCalculator {
     public static void main(String[] args) {
         // Given prices
         int costPrice = 129;
@@ -12,7 +10,13 @@ public class ProfitCalculator {
         double profitPercentage = (profit / (double)costPrice) * 100;
         
         // Output the result
-        System.out.println("The Cost Price is INR " + costPrice + " and Selling Price is INR " + sellingPrice + 
+		if(profit>=0){
+			System.out.println("The Cost Price is INR " + costPrice + " and Selling Price is INR " + sellingPrice + 
                          "\nThe Profit is INR " + profit + " and the Profit Percentage is " + profitPercentage + "%");
+		}
+		else{
+			System.out.println("The Cost Price is INR " + costPrice + " and Selling Price is INR " + sellingPrice + 
+                         "\nThe Loss is INR " + profit + " and the Loss Percentage is " + profitPercentage + "%");
+		}
     }
 }
