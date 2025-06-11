@@ -8,7 +8,7 @@ public class EarthVolumeCalculator {
         // Calculate volume in km^3
         double volumeInKm = (4.0 / 3.0) * pi * Math.pow(radiusOfEarthInKm, 3);
 
-        // Convert km^3 to miles^3 (1 km³ ≈ 0.239913 mi^3)
+        // Convert km^3 to miles^3 (1 km^3 ≈ 0.239913 mi^3)
         double volumeInMiles = volumeInKm * 0.239913;
 
         // Output the result
