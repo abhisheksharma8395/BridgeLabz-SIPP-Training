@@ -1,9 +1,6 @@
 import java.util.Scanner;
-
-/**
- * This program converts a given distance in kilometers to miles.
- */
-public class KilometerToMileConverterByInput {
+// This program converts a given distance in kilometers to miles.
+ public class KilometerToMileConverterByInput {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
