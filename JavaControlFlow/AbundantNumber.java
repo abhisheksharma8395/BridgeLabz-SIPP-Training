@@ -1,13 +1,10 @@
-import java.util.Scanner;
+package JavaControlFlow;
 
-/**
- * Program to check if a number is an Abundant Number.
- */
+import java.util.Scanner;
+//Program to check if a number is an Abundant Number.
+
 public class AbundantNumber {
-    /**
-     * Main method to execute the program.
-     * @param args Command-line arguments (not used)
-     */
+
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter an integer: ");
