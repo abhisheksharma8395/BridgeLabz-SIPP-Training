@@ -1,5 +1,5 @@
 // PrimeNumberChecker.java
-
+package JavaControlFlow;
 import java.util.Scanner;
 
 public class PrimeNumberChecker {
