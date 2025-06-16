@@ -1,8 +1,8 @@
-// FactorialCalculatorFor.java
-
+// FactorialCalculator.java
+package JavaControlFlow;
 import java.util.Scanner;
 
-public class FactorialCalculatorFor {
+public class FactorialCalculator {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
