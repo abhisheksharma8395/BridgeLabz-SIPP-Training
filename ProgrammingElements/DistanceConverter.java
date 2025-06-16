@@ -1,3 +1,5 @@
+package ProgrammingElements;
+
 import java.util.Scanner;
 
 public class DistanceConverter {
