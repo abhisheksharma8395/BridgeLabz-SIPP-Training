@@ -1,3 +1,5 @@
+package ProgrammingElements;
+
 import java.util.Scanner;
 //This program converts height in centimeters to feet and inches.
 public class HeightConverter {
