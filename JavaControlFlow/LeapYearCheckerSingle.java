@@ -1,8 +1,7 @@
-// LeapYearCheckerSingleIf.java
+package JavaControlFlow;// LeapYearCheckerSingleIf.java
 
 import java.util.Scanner;
-
-public class LeapYearCheckerSingleIf {
+public class LeapYearCheckerSingle {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
