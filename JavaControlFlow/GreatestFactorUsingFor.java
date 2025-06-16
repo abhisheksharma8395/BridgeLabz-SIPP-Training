@@ -1,5 +1,5 @@
 // GreatestFactorUsingFor.java
-
+package JavaControlFlow;
 import java.util.Scanner;
 
 public class GreatestFactorUsingFor {
@@ -12,7 +12,7 @@ public class GreatestFactorUsingFor {
 
         int greatestFactor = 1;
 
-        // Find greatest factor (excluding number itself)
+        // Find the greatest factor (excluding number itself)
         for (int i = number - 1; i >= 1; i--) {
             if (number % i == 0) {
                 greatestFactor = i;
