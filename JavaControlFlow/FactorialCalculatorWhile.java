@@ -1,5 +1,5 @@
 // FactorialCalculatorWhile.java
-
+package JavaControlFlow;
 import java.util.Scanner;
 
 public class FactorialCalculatorWhile {
