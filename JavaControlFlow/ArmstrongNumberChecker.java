@@ -1,4 +1,5 @@
-package JavaControlFlow;// ArmstrongNumberChecker.java
+// ArmstrongNumberChecker.java
+package JavaControlFlow;
 
 import java.util.Scanner;
 
