@@ -21,11 +21,11 @@ public class FactorsOfANumber {
                     }
                     factors = temp;
                 }
+                factors[index] = i;
+                index++;
             }
-            factors[index] = i;
-            index++;
         }
-        for(int i = 0;i<=index;i++){
+        for(int i = 0;i<index;i++){
             System.out.print(factors[i] + " ");
         }
     }
