@@ -1,3 +1,5 @@
+package ProgrammingElements;
+
 import java.util.Scanner;
 //This program calculates the discounted fee for a student based on user input.
  public class UniversityFeeDiscountUserInput {
