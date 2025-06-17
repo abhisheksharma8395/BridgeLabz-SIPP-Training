@@ -1,3 +1,5 @@
+package ProgrammingElements;
+
 //This class calculates how many pens each student gets when divided equally and finds the remainder.
 public class PenDistribution {
     public static void main(String[] args) {
