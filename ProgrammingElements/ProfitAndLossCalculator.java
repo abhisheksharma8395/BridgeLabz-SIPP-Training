@@ -1,3 +1,5 @@
+package ProgrammingElements;
+
 //This class calculates profit and profit percentage given cost and selling prices.
 public class ProfitAndLossCalculator {
     public static void main(String[] args) {
