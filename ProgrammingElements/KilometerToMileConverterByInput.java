@@ -1,3 +1,5 @@
+package ProgrammingElements;
+
 import java.util.Scanner;
 // This program converts a given distance in kilometers to miles.
  public class KilometerToMileConverterByInput {
