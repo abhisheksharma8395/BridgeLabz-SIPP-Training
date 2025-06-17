@@ -25,6 +25,7 @@ public class FactorsOfANumber {
                 index++;
             }
         }
+        // print the factors
         for(int i = 0;i<index;i++){
             System.out.print(factors[i] + " ");
         }
