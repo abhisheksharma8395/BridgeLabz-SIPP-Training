@@ -1,3 +1,5 @@
+package ProgrammingElements;
+
 //This program calculates the discounted fee for a student based on a fixed 10% discount.
 public class UniversityFeeDiscount {
     public static void main(String[] args) {
