@@ -1,3 +1,5 @@
+package ProgrammingElements;
+
 import java.util.Scanner;
 public class TotalPrice {
     public static void main(String[] args) {
