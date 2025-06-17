@@ -1,3 +1,5 @@
+package PracticeProblems;
+
 import java.util.Scanner;
 class PerimeterOfARectangle {
     public static void main(String[] args) {
