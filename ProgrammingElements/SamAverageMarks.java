@@ -1,3 +1,5 @@
+package ProgrammingElements;
+
 //This class calculates Sam's average marks in Physics, Chemistry, and Maths.
 public class SamAverageMarks {
     public static void main(String[] args) {
