@@ -14,11 +14,11 @@ public class CanCastVote {
         }
 
         //Looping through array ages and prints the output
-        for(int i = 0;i <= ages.length;i++){
+        for(int i = 0;i < ages.length;i++){
             if(ages[i] < 0){
                 System.out.println("An Invalid age!");
             }
-            else if(ages[i] == 0){
+            else if(ages[i] >= 18){
                 System.out.println("The student with the age "+ages[i]+" can vote");
             }
             else{
