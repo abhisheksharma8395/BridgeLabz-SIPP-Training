@@ -1,7 +1,7 @@
 package JavaMethods;
 
 public class ExtendedUnitConverter {
-
+    // Converts Yards into Feet
     public static double convertYardsToFeet(double yards) {
         return yards * 3;
     }
