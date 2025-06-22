@@ -1,4 +1,4 @@
-Package JavaClassAndObject;
+package JavaClassAndObject;
 public class EmployeeDetails{
     
     public static void main(String[] args){
@@ -6,7 +6,7 @@ public class EmployeeDetails{
         
         // Assigning the value to the object Abhishek
         Abhishek.name = "Abhishek Sharma";
-        Abhishek.id = 01;
+        Abhishek.id = 1;
         Abhishek.salary = 150000.50;
 
         //To display object Abhishek detail
