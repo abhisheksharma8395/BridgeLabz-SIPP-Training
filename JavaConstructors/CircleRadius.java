@@ -1,6 +1,6 @@
 package JavaConstructors;
 // Circle class using constructor chaining
-public class Circle {
+class Circle {
     double radius;
 
     // Default constructor
@@ -17,7 +17,9 @@ public class Circle {
     public void displayRadius() {
         System.out.println("Radius: " + radius);
     }
+}
 
+public class CircleRadius{
     // Main method to test the class
     public static void main(String[] args) {
 
