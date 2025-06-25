@@ -1,4 +1,4 @@
-package JavaMethods;
+package JavaConstructors;
 
 class Vehicle {
 
