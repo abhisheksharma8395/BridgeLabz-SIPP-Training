@@ -1,1 +1,0 @@
-# Brijlab Practice Problems
