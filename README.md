@@ -5,22 +5,22 @@
 This README serves as a central log of my daily progress across different topics, branches, and Java modules.
 Each entry includes concepts covered, skills practiced, and links to the exact code in their respective branches.
 
-### 📂 CORE-JAVA Branch
+1. ### 📂 CORE-JAVA Branch
 
-📅 09/06/25 (Mon) – Day 1 – Java Fundamentals
+* 📅 09/06/25 (Mon) – Day 1 – Java Fundamentals
 Topics: Introduction to Java, role of JDK, JRE, and JVM, writing the first program, variable types, and basic data types in Java
 🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/tree/Core-Java/PracticeProblems)
 
 
-📅 10/06/25 (Tue) – Day 2 – Java Programming Elements
+* 📅 10/06/25 (Tue) – Day 2 – Java Programming Elements
 Topics: Arithmetic, relational, logical, bitwise, and assignment operators; type casting, precedence, associativity, and expression evaluation
 🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/tree/Core-Java/ProgrammingElements)
 
-📅 11/06/25 (Wed) – Day 3 – Java Control Flow
+* 📅 11/06/25 (Wed) – Day 3 – Java Control Flow
 Topics: Conditional statements (if, if-else, switch) and loops (for, while, do-while), along with nested control structures
 🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/tree/Core-Java/JavaControlFlow)
 
-📅 12/06/25 (Thu) – Day 4 – Java Arrays
+ 📅 12/06/25 (Thu) – Day 4 – Java Arrays
 Topics: Declaring and initializing 1D and 2D arrays, array traversal using loops, searching and sorting elements, and array-based problem solving
 🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/tree/Core-Java/Arraypractice)
 
