@@ -63,7 +63,7 @@ Topics: Object-oriented modeling, designing class diagrams using UML, understand
 * 📅 26/06/25 (Thu) – Day 1 – Coding Review<br>
 Problem Statement : 📚 BookBuddy – Digital Bookshelf App<br>
 📝 Story: Users maintain a personal digital bookshelf by adding, updating, and sorting their favorite books by title and author.<br>
-🔗 [Coming soon](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/blob/Workshop/BooksManagement.java)
+🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/blob/Workshop/BooksManagement.java)
 
 * 📅 27/06/25 (Fri) – Day 2 – Coding Review<br>
 Problem Statement : 🧠 Online Quiz Platform – Result Processor<br>
