@@ -9,67 +9,67 @@ Each entry includes concepts covered, skills practiced, and links to the exact c
 
 * 📅 09/06/25 (Mon) – Day 1 – Java Fundamentals<br>
 Topics: Introduction to Java, role of JDK, JRE, and JVM, writing the first program, variable types, and basic data types in Java
-🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/tree/Core-Java/PracticeProblems)
+<br>🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/tree/Core-Java/PracticeProblems)<br>
 
 
-* 📅 10/06/25 (Tue) – Day 2 – Java Programming Elements
-Topics: Arithmetic, relational, logical, bitwise, and assignment operators; type casting, precedence, associativity, and expression evaluation
-🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/tree/Core-Java/ProgrammingElements)
+* 📅 10/06/25 (Tue) – Day 2 – Java Programming Elements<br>
+Topics: Arithmetic, relational, logical, bitwise, and assignment operators; type casting, precedence, associativity, and expression evaluation<br>
+🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/tree/Core-Java/ProgrammingElements)<br>
 
-* 📅 11/06/25 (Wed) – Day 3 – Java Control Flow
-Topics: Conditional statements (if, if-else, switch) and loops (for, while, do-while), along with nested control structures
-🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/tree/Core-Java/JavaControlFlow)
+* 📅 11/06/25 (Wed) – Day 3 – Java Control Flow<br>
+Topics: Conditional statements (if, if-else, switch) and loops (for, while, do-while), along with nested control structures<br>
+🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/tree/Core-Java/JavaControlFlow)<br>
 
-* 📅 12/06/25 (Thu) – Day 4 – Java Arrays
-Topics: Declaring and initializing 1D and 2D arrays, array traversal using loops, searching and sorting elements, and array-based problem solving
-🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/tree/Core-Java/Arraypractice)
+* 📅 12/06/25 (Thu) – Day 4 – Java Arrays<br>
+Topics: Declaring and initializing 1D and 2D arrays, array traversal using loops, searching and sorting elements, and array-based problem solving<br>
+🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/tree/Core-Java/Arraypractice)<br>
 
-* 📅 13/06/25 (Fri) – Day 5 – Java Methods
-Topics: Creating reusable methods, method overloading, returning values, and passing arguments (by value), plus real-world use cases
-🔗  [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/tree/Core-Java/JavaMethods)
+* 📅 13/06/25 (Fri) – Day 5 – Java Methods<br>
+Topics: Creating reusable methods, method overloading, returning values, and passing arguments (by value), plus real-world use cases<br>
+🔗  [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/tree/Core-Java/JavaMethods)<br>
 
-* 📅 16/06/25 (Mon) – Day 6 – Java Strings
-Topics: Understanding String class, string creation, comparing strings, common string methods (charAt, substring, indexOf, etc.)
-🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/tree/Core-Java/JavaString)
+* 📅 16/06/25 (Mon) – Day 6 – Java Strings<br>
+Topics: Understanding String class, string creation, comparing strings, common string methods (charAt, substring, indexOf, etc.)<br>
+🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/tree/Core-Java/JavaString)<br>
 
-* 📅 17/06/25 - 18/06/25 (Tue - Wed) – Day 7 – Java Built-In Functions
-Topics: Working with built-in Java libraries: Math (rounding, powers, roots), Arrays utility class, and basic intro to Collections
-🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/tree/Core-Java/BuiltInFunction)
+* 📅 17/06/25 - 18/06/25 (Tue - Wed) – Day 7 – Java Built-In Functions<br>
+Topics: Working with built-in Java libraries: Math (rounding, powers, roots), Arrays utility class, and basic intro to Collections<br>
+🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/tree/Core-Java/BuiltInFunction)<br>
 
-* 📅 19/06/25 (Thu) – Day 8 – Java String Handling
-Topics: Mutable vs immutable strings, StringBuilder & StringBuffer, performance comparison, string reversal and manipulation
-🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/tree/Core-Java/JavaStringHandling)
+* 📅 19/06/25 (Thu) – Day 8 – Java String Handling<br>
+Topics: Mutable vs immutable strings, StringBuilder & StringBuffer, performance comparison, string reversal and manipulation<br>
+🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/tree/Core-Java/JavaStringHandling)<br>
 
 ### 🧱 OOP Branch
 
-* 📅 20/06/25 (Fri) – Day 1 – Classes & Objects
-Topics: Defining classes, creating objects, class structure, encapsulating data, real-world object modeling in Java
-🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/tree/OOP/JavaClassAndObject)
+* 📅 20/06/25 (Fri) – Day 1 – Classes & Objects<br>
+Topics: Defining classes, creating objects, class structure, encapsulating data, real-world object modeling in Java<br>
+🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/tree/OOP/JavaClassAndObject)<br>
 
-* 📅 23/06/25 (Mon) – Day 2 – Constructors, Variables, Modifiers
-Topics: Constructor types (default, parameterized, overloaded), use of this keyword, instance vs static variables, and access modifiers
-🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/tree/OOP/JavaConstructors)
+* 📅 23/06/25 (Mon) – Day 2 – Constructors, Variables, Modifiers<br>
+Topics: Constructor types (default, parameterized, overloaded), use of this keyword, instance vs static variables, and access modifiers<br>
+🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/tree/OOP/JavaConstructors)<br>
 
-* 📅 24/06/25 (Tue) – Day 3 – Java Keywords
-Topics: Deep dive into important Java keywords: static, final, this, and instanceof, with practical examples for each
-🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/tree/OOP/JavaKeyWords)
+* 📅 24/06/25 (Tue) – Day 3 – Java Keywords<br>
+Topics: Deep dive into important Java keywords: static, final, this, and instanceof, with practical examples for each<br>
+🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/tree/OOP/JavaKeyWords)<br>
 
-* 📅 25/06/25 (Wed) – Day 4 – Diagrams & Modelling
-Topics: Object-oriented modeling, designing class diagrams using UML, understanding relationships like aggregation and composition
-🔗 Code: Coming Soon
+* 📅 25/06/25 (Wed) – Day 4 – Diagrams & Modelling<br>
+Topics: Object-oriented modeling, designing class diagrams using UML, understanding relationships like aggregation and composition<br>
+🔗 Code: Coming Soon<br>
 
 ### 🛠️ Workshop Branch
 
-* 📅 26/06/25 (Thu) – Day 1 – Coding Review
-Problem Statement : 📚 BookBuddy – Digital Bookshelf App
-📝 Story: Users maintain a personal digital bookshelf by adding, updating, and sorting their favorite books by title and author.
+* 📅 26/06/25 (Thu) – Day 1 – Coding Review<br>
+Problem Statement : 📚 BookBuddy – Digital Bookshelf App<br>
+📝 Story: Users maintain a personal digital bookshelf by adding, updating, and sorting their favorite books by title and author.<br>
 🔗 [Coming soon]()
 
-* 📅 27/06/25 (Fri) – Day 2 – Coding Review
-Problem Statement : 🧠 Online Quiz Platform – Result Processor
+* 📅 27/06/25 (Fri) – Day 2 – Coding Review<br>
+Problem Statement : 🧠 Online Quiz Platform – Result Processor<br>
 📘 Scenario:
-A quiz platform processes user-submitted answers and compares them to the correct answers to calculate scores and assign grades.
-🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/blob/Workshop/OnlineQuizPlatform.java)
+A quiz platform processes user-submitted answers and compares them to the correct answers to calculate scores and assign grades.<br>
+🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/blob/Workshop/OnlineQuizPlatform.java)<br>
 
 📝 Note:
 Each topic’s code is organized in its dedicated branch — but this main README connects everything.
