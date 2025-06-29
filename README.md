@@ -54,9 +54,55 @@ Topics: Constructor types (default, parameterized, overloaded), use of this keyw
 Topics: Deep dive into important Java keywords: static, final, this, and instanceof, with practical examples for each
 🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/tree/OOP/JavaKeyWords)
 
-* 📅 25/06/25 (Tue) – Day 4 – Diagrams & Modelling
+* 📅 25/06/25 (Wed) – Day 4 – Diagrams & Modelling
 Topics: Object-oriented modeling, designing class diagrams using UML, understanding relationships like aggregation and composition
 🔗 Code: Coming Soon
 
+### 🛠️ OOP Branch
+
+* 📅 26/06/25 (Thu) – Day 1 – Coding Review
+Problem Statement : 📚 BookBuddy – Digital Bookshelf App
+📝 Story:
+Users maintain a personal digital bookshelf by adding, updating, and sorting their favorite books by title and author.
+
+* ✅ Requirements:
+Use an ArrayList<String> to store book titles in "Title - Author" format.
+
+🔧 Methods:
+* addBook(String title, String author)
+* sortBooksAlphabetically()
+* searchByAuthor(String author)
+
+🔍 Functionality:
+* Use String.split() to separate title and author.
+* Convert the ArrayList to an array before exporting.
+
+⚠️ Exception Handling:
+* Throw InvalidBookFormatException if input string is not in the correct format.
+* Handle cases when the list is empty using try-catch.
+🔗 [Coming soon]()
+
+* 📅 27/06/25 (Fri) – Day 2 – Coding Review
+Problem Statement : 🧠 Online Quiz Platform – Result Processor
+📘 Scenario:
+A quiz platform processes user-submitted answers and compares them to the correct answers to calculate scores and assign grades.
+
+✅ Problem Requirements:
+* Use String[] arrays for:
+* correctAnswers
+* userAnswers
+
+🔧 Functional Methods:
+* Compare answers between user and correct answers.
+* Calculate total score.
+* Return grade based on the score.
+
+📊 Data Handling:
+Store scores of multiple users in a List<Integer>.
+
+⚠️ Validation & Exception Handling:
+* Validate if the length of userAnswers and correctAnswers match.
+* Throw custom exception: InvalidQuizSubmissionException for mismatch.
+🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/blob/Workshop/OnlineQuizPlatform.java)
 📝 Note:
 Each topic’s code is organized in its dedicated branch — but this main README connects everything.
