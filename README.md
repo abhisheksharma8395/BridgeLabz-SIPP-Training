@@ -56,7 +56,7 @@ Topics: Deep dive into important Java keywords: static, final, this, and instanc
 
 * 📅 25/06/25 (Wed) – Day 4 – Diagrams & Modelling<br>
 Topics: Object-oriented modeling, designing class diagrams using UML, understanding relationships like aggregation and composition<br>
-🔗 Code: Coming Soon<br>
+🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/tree/OOP/ObjectModeling)<br>
 
 ### 🛠️ Workshop Branch
 
