@@ -110,8 +110,8 @@ class CurrentAccount extends BankAccount implements Loanable {
 public class BankingSystem {
     public static void main(String[] args) {
         BankAccount[] accounts = new BankAccount[2];
-        accounts[0] = new SavingsAccount("SB1001", "Virat Kohli", 7000);
-        accounts[1] = new CurrentAccount("CA2001", "Rohit Sharma", 15000);
+        accounts[0] = new SavingsAccount("SB1001", "Virat Kohli", 18000);
+        accounts[1] = new CurrentAccount("CA2001", "Novak Djokovic", 15000);
 
         for (BankAccount account : accounts) {
             account.showDetails();
