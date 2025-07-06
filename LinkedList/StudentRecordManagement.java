@@ -36,6 +36,7 @@ public class StudentRecordManagement {
                     int index = sc.nextInt();
                     System.out.println("Enter roll number : ");
                     int rollNumber = sc.nextInt();
+                    sc.nextLine();
                     System.out.println("Enter name : ");
                     String name = sc.nextLine();
                     System.out.println("Enter age : ");
@@ -65,6 +66,7 @@ public class StudentRecordManagement {
                     list.updateGradesByRollNumber(rollnum, newGrade);
                     break;
                 case 6:
+                    System.out.println("Exiting... Goodbye!");
                     flag = false;
                     break;
             }
