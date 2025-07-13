@@ -3,7 +3,7 @@ package StacksAndQueues;
 import java.util.HashSet;
 
 public class LongestConsecutiveSequence {
-
+    //Method
     public static int longestConsecutive(int[] nums) {
         HashSet<Integer> set = new HashSet<>();
 
