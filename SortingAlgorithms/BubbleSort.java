@@ -1,5 +1,5 @@
 package SortingAlgorithms;
-public class BubbleSortStudentMarks {
+public class BubbleSort {
 
     //This method sorts an array using Bubble Sort algorithm.
     public static void bubbleSort(int[] marks) {
