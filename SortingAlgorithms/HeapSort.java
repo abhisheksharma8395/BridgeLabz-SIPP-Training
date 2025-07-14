@@ -43,7 +43,7 @@ public class HeapSort {
         if (left < heapSize && arr[left] > arr[largest])
             largest = left;
 
-        // If right child is larger than largest so far
+        // If the right child is larger than the largest so far
         if (right < heapSize && arr[right] > arr[largest])
             largest = right;
 
@@ -53,7 +53,7 @@ public class HeapSort {
             arr[i] = arr[largest];
             arr[largest] = swap;
 
-            // Recursively heapify the affected sub-tree
+            // Recursively heapify the affected subtree
             heapify(arr, heapSize, largest);
         }
     }
