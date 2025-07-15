@@ -148,7 +148,7 @@ Problem Statement 5 : 📦🚚✈️📬ParcelTracker – Delivery Chain Managem
   📘 Scenario: Maintain a user’s browsing history with the ability to move back and forth.<br>
   🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/blob/Workshop/ParcelTrackerMain.java)<br>
 
-* 📅 14/07/25 (Tue) – Day 7 – Coding Review<br>
+* 📅 14/07/25 (Mon) – Day 7 – Coding Review<br>
   Problem Statement 9 : 📚 BookShelf – Library Organizer<br>
   📘 Scenario:   Students should be able to enroll in courses, and faculty can assign grades.<br>
   🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/blob/Workshop/BookShelfMain.java)<br>
