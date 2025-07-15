@@ -111,8 +111,22 @@ Problem Statement 5 : 📦🚚✈️📬ParcelTracker – Delivery Chain Managem
 ### 🧩 DSA Branch
 
 * 📅 07/07/25 (Mon) – Day 2 – Stack Queue And HashMap<br>
-  Topics: Introduction of Data Structure, Key Features of Data Structures in Java, Types of Data Structures in Java, Single Linked List, Double Linked List, Circular Linked List.<br>
-  🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/tree/DSA/LinkedList)<br>
+  Topics: Stacks in Java , Key Characteristics of Stack, Internal Working of Stack, Common Applications of Stack, Common Methods in Stack Class, Advantages of Stacks,Queues in Java,Key Characteristics of a Queue,Common Queue Methods,Ticket Counter Management Using Queue,Applications of Queue,HashMap in Java
+  ,Internal Working of HashMap,Key Methods in HashMap,Performance Considerations,Limitations of HashMap,Common Use Cases,Hashing Function in Java,How to Override hashCode(),Steps for Hashing in Java,Applications of Hashing.<br>
+  🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/tree/DSA/StacksAndQueues)<br>
+
+* 📅 08/07/25 (Tue) – Day 3 – HashMap Implementations<br>
+  Topics: Implement a HashMap without collection framework.<br>
+  🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/blob/DSA/StacksAndQueues/CustomHashMapImplementation.java)<br>
+
+* 📅 09/07/25 (Wed) – Day 4 – Sorting Algorithm<br>
+  Topics: Bubble Sort,Insertion Sort,Merge Sort,Quick Sort<br>
+  🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/tree/DSA/SortingAlgorithms)<br>
+
+* 📅 10/07/25 (Wed) – Day 4 – Sorting Algorithm<br>
+  Topics: Bubble Sort,Insertion Sort,Merge Sort,Quick Sort<br>
+  🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/tree/DSA/SortingAlgorithms)<br>
+
 
 📝 Note:
 Each topic’s code is organized in its dedicated branch — but this main README connects everything.
