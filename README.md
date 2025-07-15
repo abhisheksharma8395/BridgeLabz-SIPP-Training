@@ -123,9 +123,16 @@ Problem Statement 5 : 📦🚚✈️📬ParcelTracker – Delivery Chain Managem
   Topics: Bubble Sort,Insertion Sort,Merge Sort,Quick Sort<br>
   🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/tree/DSA/SortingAlgorithms)<br>
 
-* 📅 10/07/25 (Wed) – Day 4 – Sorting Algorithm<br>
-  Topics: Bubble Sort,Insertion Sort,Merge Sort,Quick Sort<br>
-  🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/tree/DSA/SortingAlgorithms)<br>
+* 📅 10/07/25 (Wed) – Day 5 – Linear And Binary Search<br>
+  Topics: Linear Search,Binary Search,String Builder,String Buffer,File Reader,Input Stream Reader,Linear Search,Binary Search<br>
+  🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/tree/DSA/linearAndBinarySearch)<br>
+
+### 🛠️ Workshop Branch
+
+* 📅 10/07/25 (Wed) – Day 5 – Linear And Binary Search<br>
+  Topics: Linear Search,Binary Search,String Builder,String Buffer,File Reader,Input Stream Reader,Linear Search,Binary Search<br>
+  🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/tree/DSA/linearAndBinarySearch)<br>
+
 
 
 📝 Note:
