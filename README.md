@@ -77,7 +77,7 @@ Problem Statement 3 : ✈️ Flight Booking System<br>
 
 * 📅 28/06/25 (Sat) – Day 3 – Coding Review<br>
 Problem Statement 4 : 🎬 CinemaTime – Movie Schedule Manager<br>
-📘 Scenario: A cinema manager wants a tool to store and update a list of movie showtimes and titles. Users should be able to add, view, and search movies.<br>
+📘 Scenario: A cinema manager wants a tool to store and update a list of movie show times and titles. Users should be able to add, view, and search movies.<br>
 🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/blob/Workshop/CinemaManagement.java)<br>
 
 ### 🧱 OOP Branch
@@ -127,7 +127,7 @@ Problem Statement 5 : 📦🚚✈️📬ParcelTracker – Delivery Chain Managem
 
 * 📅 10/07/25 (Thu) – Day 5 – Coding Review<br>
   Problem Statement 6 : 🎓 University Course Enrollment System<br>
-  📘 Scenario:   Students should be able to enroll in courses, and faculty can assign grades.
+  📘 Scenario: Students should be able to enroll in courses, and faculty can assign grades.<br>
   🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/blob/Workshop/ParcelTrackerMain.java)<br>
 
 ### 🧩 DSA Branch
@@ -138,14 +138,14 @@ Problem Statement 5 : 📦🚚✈️📬ParcelTracker – Delivery Chain Managem
 
 ### 🛠️ Workshop Branch
 
-* 📅 11/07/25 (Fri) – Day 5 – Coding Review<br>
-  Problem Statement 6 : 🚕 CabGo – A Ride-Hailing App in the Making<br>
-  📘 Scenario:   You’ve joined a startup building CabbyGo, a ride-hailing app. You're tasked with building the backend logic for managing vehicles, drivers, and ride booking.
-  🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/blob/Workshop/ParcelTrackerMain.java)<br>
+* 📅 11/07/25 (Fri) – Day 6 – Coding Review<br>
+  Problem Statement 7 : 🚕 CabbyGo – A Ride-Hailing App in the Making<br>
+  📘 Scenario:   You’ve joined a startup building CabbyGo, a ride-hailing app. You're tasked with building the backend logic for managing vehicles, drivers, and ride booking.<br>
+  🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/blob/Workshop/CabbyGo.java)<br>
 
-* 📅 10/07/25 (Fri) – Day 5 – Coding Review<br>
-  Problem Statement 6 : 🎓 University Course Enrollment System<br>
-  📘 Scenario:   Students should be able to enroll in courses, and faculty can assign grades.
+* 📅 10/07/25 (Fri) – Day 7 – Coding Review<br>
+  Problem Statement 8 : 🎓  Browser History Navigation<br>
+  📘 Scenario: Maintain a user’s browsing history with the ability to move back and forth.<br>
   🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/blob/Workshop/ParcelTrackerMain.java)<br>
 
 * 📅 10/07/25 (Fri) – Day 5 – Coding Review<br>
