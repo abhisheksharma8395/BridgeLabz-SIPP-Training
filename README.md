@@ -143,15 +143,20 @@ Problem Statement 5 : 📦🚚✈️📬ParcelTracker – Delivery Chain Managem
   📘 Scenario:   You’ve joined a startup building CabbyGo, a ride-hailing app. You're tasked with building the backend logic for managing vehicles, drivers, and ride booking.<br>
   🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/blob/Workshop/CabbyGo.java)<br>
 
-* 📅 10/07/25 (Fri) – Day 7 – Coding Review<br>
-  Problem Statement 8 : 🎓  Browser History Navigation<br>
+* 📅 14/07/25 (Mon) – Day 7 – Coding Review<br>
+  Problem Statement 8 : 🌐 Browser History Navigation<br>
   📘 Scenario: Maintain a user’s browsing history with the ability to move back and forth.<br>
   🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/blob/Workshop/ParcelTrackerMain.java)<br>
 
-* 📅 10/07/25 (Fri) – Day 5 – Coding Review<br>
-  Problem Statement 6 : 🎓 University Course Enrollment System<br>
-  📘 Scenario:   Students should be able to enroll in courses, and faculty can assign grades.
-  🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/blob/Workshop/ParcelTrackerMain.java)<br>
+* 📅 14/07/25 (Tue) – Day 7 – Coding Review<br>
+  Problem Statement 9 : 📚 BookShelf – Library Organizer<br>
+  📘 Scenario:   Students should be able to enroll in courses, and faculty can assign grades.<br>
+  🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/blob/Workshop/BookShelfMain.java)<br>
+
+* 📅 15/07/25 (Tue) – Day 8 – Coding Review<br>
+  Problem Statement 10 : 🎵 Music Playlist Queue <br>
+  📘 Scenario: A music player plays songs one after another and can dynamically add/remove songs.<br>
+  🔗 [Coming Soon]()<br>
 
 📝 Note:
 Each topic’s code is organized in its dedicated branch — but this main README connects everything.
