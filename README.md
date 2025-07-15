@@ -108,5 +108,11 @@ Problem Statement 5 : 📦🚚✈️📬ParcelTracker – Delivery Chain Managem
   ● Handle lost/missing parcels (null pointers).<br>
 🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/blob/Workshop/ParcelTrackerMain.java)<br>
 
+### 🧩 DSA Branch
+
+* 📅 07/07/25 (Mon) – Day 2 – Stack Queue And HashMap<br>
+  Topics: Introduction of Data Structure, Key Features of Data Structures in Java, Types of Data Structures in Java, Single Linked List, Double Linked List, Circular Linked List.<br>
+  🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/tree/DSA/LinkedList)<br>
+
 📝 Note:
 Each topic’s code is organized in its dedicated branch — but this main README connects everything.
