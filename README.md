@@ -98,10 +98,15 @@ Topics: Inheritance, Single Level Inheritance, Multilevel Inheritance, Hierarchi
 
 ### 🛠️ Workshop Branch
 
-* 📅 28/06/25 (Sat) – Day 4 – Coding Review<br>
-Problem Statement 5 : 🎬 CinemaTime – Movie Schedule Manager<br> 
-📘 Scenario: A cinema manager wants a tool to store and update a list of movie showtimes and titles. Users should be able to add, view, and search movies.<br>
-🔗 [Coming Soon]()<br>
+* 📅 04/07/25 (Fri) – Day 4 – Coding Review<br>
+Problem Statement 5 : 📦🚚✈️📬ParcelTracker – Delivery Chain Management (Singly Linked List)<br> 
+📘 Scenario:  A courier company tracks parcels through stages like Packed → Shipped → In Transit →
+  Delivered. Each stage is a node in a Singly Linked List.
+  Requirements:
+  ● Forward tracking through stages.
+  ● Add custom intermediate checkpoints.
+  ● Handle lost/missing parcels (null pointers).<br>
+🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/blob/Workshop/ParcelTrackerMain.java)<br>
 
 📝 Note:
 Each topic’s code is organized in its dedicated branch — but this main README connects everything.
