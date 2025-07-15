@@ -119,18 +119,39 @@ Problem Statement 5 : 📦🚚✈️📬ParcelTracker – Delivery Chain Managem
   Topics: Bubble Sort,Insertion Sort,Merge Sort,Quick Sort<br>
   🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/tree/DSA/SortingAlgorithms)<br>
 
-* 📅 10/07/25 (Wed) – Day 5 – Linear And Binary Search<br>
+* 📅 10/07/25 (Thu) – Day 5 – Linear And Binary Search<br>
   Topics: Linear Search,Binary Search,String Builder,String Buffer,File Reader,Input Stream Reader,Linear Search,Binary Search<br>
   🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/tree/DSA/linearAndBinarySearch)<br>
 
 ### 🛠️ Workshop Branch
+
+* 📅 10/07/25 (Thu) – Day 5 – Coding Review<br>
+  Problem Statement 6 : 🎓 University Course Enrollment System<br>
+  📘 Scenario:   Students should be able to enroll in courses, and faculty can assign grades.
+  🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/blob/Workshop/ParcelTrackerMain.java)<br>
+
+### 🧩 DSA Branch
+
+* 📅 11/07/25 (Fri) – Day 6 – Algorithm's Runtime Analysis & Big-O Notation<br>
+  Topics: What is Runtime Analysis? , Understanding Big-O Notation, Time Complexity Analysis, Space Complexity Analysis, Best Worst and Average Case Complexities,  Practical Guidelines for Optimizing Java Code<br>
+  🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/tree/DSA/RuntimeAnalysisAndBigONotation)<br>
+
+### 🛠️ Workshop Branch
+
+* 📅 11/07/25 (Fri) – Day 5 – Coding Review<br>
+  Problem Statement 6 : 🚕 CabGo – A Ride-Hailing App in the Making<br>
+  📘 Scenario:   You’ve joined a startup building CabbyGo, a ride-hailing app. You're tasked with building the backend logic for managing vehicles, drivers, and ride booking.
+  🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/blob/Workshop/ParcelTrackerMain.java)<br>
 
 * 📅 10/07/25 (Fri) – Day 5 – Coding Review<br>
   Problem Statement 6 : 🎓 University Course Enrollment System<br>
   📘 Scenario:   Students should be able to enroll in courses, and faculty can assign grades.
   🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/blob/Workshop/ParcelTrackerMain.java)<br>
 
-
+* 📅 10/07/25 (Fri) – Day 5 – Coding Review<br>
+  Problem Statement 6 : 🎓 University Course Enrollment System<br>
+  📘 Scenario:   Students should be able to enroll in courses, and faculty can assign grades.
+  🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/blob/Workshop/ParcelTrackerMain.java)<br>
 
 📝 Note:
 Each topic’s code is organized in its dedicated branch — but this main README connects everything.
