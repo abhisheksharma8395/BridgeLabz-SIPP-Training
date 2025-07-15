@@ -102,10 +102,6 @@ Topics: Inheritance, Single Level Inheritance, Multilevel Inheritance, Hierarchi
 Problem Statement 5 : 📦🚚✈️📬ParcelTracker – Delivery Chain Management (Singly Linked List)<br> 
 📘 Scenario:  A courier company tracks parcels through stages like Packed → Shipped → In Transit →
   Delivered. Each stage is a node in a Singly Linked List.
-  Requirements:
-  ● Forward tracking through stages.
-  ● Add custom intermediate checkpoints.
-  ● Handle lost/missing parcels (null pointers).<br>
 🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/blob/Workshop/ParcelTrackerMain.java)<br>
 
 ### 🧩 DSA Branch
@@ -129,9 +125,10 @@ Problem Statement 5 : 📦🚚✈️📬ParcelTracker – Delivery Chain Managem
 
 ### 🛠️ Workshop Branch
 
-* 📅 10/07/25 (Wed) – Day 5 – Linear And Binary Search<br>
-  Topics: Linear Search,Binary Search,String Builder,String Buffer,File Reader,Input Stream Reader,Linear Search,Binary Search<br>
-  🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/tree/DSA/linearAndBinarySearch)<br>
+* 📅 10/07/25 (Fri) – Day 5 – Coding Review<br>
+  Problem Statement 6 : 🎓 University Course Enrollment System<br>
+  📘 Scenario:   Students should be able to enroll in courses, and faculty can assign grades.
+  🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/blob/Workshop/ParcelTrackerMain.java)<br>
 
 
 
