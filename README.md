@@ -180,5 +180,17 @@ Problem Statement 5 : 📦🚚✈️📬ParcelTracker – Delivery Chain Managem
   Problem Statement 13 : 🎓 StudentPro – Smart Student Management System<br>
   📘 Scenario: You’ve joined an EdTech company developing StudentPro, a student management system for schools and colleges. Your task is to implement the core backend logic to manage student records efficiently. The system should allow staff to maintain student data, retrieve academic details, and perform sorting/filtering based on grades and subjects.<br>
   🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/blob/Workshop/StudentManagementSystemApp.java)<br>
+
+
+### 🚀 StreamAPI Branch
+
+* 📅 29/07/25 (Tue) – Day 1 – Java Streams <br>
+  Topics: Java I/O Streams, Types of Streams, File Streams, Object Streams, ByteArray Streams, Buffered Streams, Reader and Writer, Key Considerations, Best Practices<br>
+  🔗 [Coming Soon]()<br>
+
+* 📅 01/08/25 (Fri) – Day 2 – Exception Handling <br>
+  Topics: Types of Exceptions, Checked Exceptions, Unchecked Exceptions, Custom Exceptions, Handling Exceptions, try-catch blocks, try-catch-finally blocks, try-with-resources statement, throws clause, throw statement, Creating Custom Exceptions, Extending Exception Class, Defining Constructors<br>
+  🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/tree/StreamAPI/Exceptions)<br>
+
 * 📝 Note:
 Each topic’s code is organized in its dedicated branch — but this main README connects everything.
