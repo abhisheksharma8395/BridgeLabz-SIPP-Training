@@ -148,21 +148,32 @@ Problem Statement 5 : 📦🚚✈️📬ParcelTracker – Delivery Chain Managem
   📘 Scenario: Maintain a user’s browsing history with the ability to move back and forth.<br>
   🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/blob/Workshop/ParcelTrackerMain.java)<br>
 
-* 📅 14/07/25 (Mon) – Day 7 – Coding Review<br>
+* 📅 14/07/25 (Mon) – Day 8 – Coding Review<br>
   Problem Statement 9 : 📚 BookShelf – Library Organizer<br>
   📘 Scenario:   Students should be able to enroll in courses, and faculty can assign grades.<br>
   🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/blob/Workshop/BookShelfMain.java)<br>
 
-* 📅 15/07/25 (Tue) – Day 8 – Coding Review<br>
+* 📅 15/07/25 (Tue) – Day 9 – Coding Review<br>
   Problem Statement 10 : 🎵 Music Playlist Queue <br>
   📘 Scenario: A music player plays songs one after another and can dynamically add/remove songs.<br>
   🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/blob/Workshop/MusicPlayer.java)<br>
 
 ### 🧰 Generics Branch
 
-* 📅 21/07/25 (Mon) – Day 8 – Coding Review<br>
+* 📅 21/07/25 (Mon) – Day 1 – Coding Review<br>
   Topics : Introduction to Generics, Type Parameters, Generic Classes, Generic Methods, Bounded Type Parameters, Wildcards
   🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/tree/Generics/Generic)<br>
 
+### 🛠️ Workshop Branch
+
+* 📅 25/07/25 (Fri) – Day 10 – Coding Review<br>
+  Problem Statement 11 : 📇 Address Book Management System<br>
+  📘 Scenario: You’ve been hired to build the backend logic for a simple but powerful Address Book System. This system should help users store and manage contact information efficiently. The goal is to provide a user-friendly experience for adding, removing, searching, listing, and analyzing contact data.<br>
+  🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/blob/Workshop/AddressBookSystem.java)<br>
+
+* 📅 28/07/25 (Fri) – Day 11 – Coding Review<br>
+  Problem Statement 12 : 🧑‍🎓 GradeBook – Student Marks Report System<br>
+  📘 Scenario: You’ve been brought in to develop a backend logic for GradeBook, a marks-reporting system for schools and coaching centers. The application will allow staff to store, analyze, and compare student performance based on their academic marks. Your goal is to design a flexible and efficient system that keeps track of multiple marks for each student and provides insightful performance metrics.<br>
+  🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/blob/Workshop/AddressBookSystem.java)<br>
 * 📝 Note:
 Each topic’s code is organized in its dedicated branch — but this main README connects everything.
