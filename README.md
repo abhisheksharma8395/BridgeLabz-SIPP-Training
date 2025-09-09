@@ -192,5 +192,9 @@ Problem Statement 5 : 📦🚚✈️📬ParcelTracker – Delivery Chain Managem
   Topics: Types of Exceptions, Checked Exceptions, Unchecked Exceptions, Custom Exceptions, Handling Exceptions, try-catch blocks, try-catch-finally blocks, try-with-resources statement, throws clause, throw statement, Creating Custom Exceptions, Extending Exception Class, Defining Constructors<br>
   🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/tree/StreamAPI/Exceptions)<br>
 
+* 📅 06/08/25 (Wed) – Day 3 – Regex & Junit <br>
+  Topics: Regex, MetaCharacter, Quantifier, Common Patterns: Email Validation, Password Strength, Phone Number Format, Java Regex API : Pattern, Matcher, Methods: find(), matches(), replaceAll(), Introduction to JUnit Framework, JUnit Annotations, Writing Test Cases, Structure of a Test Class, Assertions<br>
+  🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/tree/StreamAPI/RegexAndJunit/regex)<br>
+
 * 📝 Note:
 Each topic’s code is organized in its dedicated branch — but this main README connects everything.
