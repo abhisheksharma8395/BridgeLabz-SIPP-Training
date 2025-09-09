@@ -156,7 +156,7 @@ Problem Statement 5 : 📦🚚✈️📬ParcelTracker – Delivery Chain Managem
 * 📅 15/07/25 (Tue) – Day 8 – Coding Review<br>
   Problem Statement 10 : 🎵 Music Playlist Queue <br>
   📘 Scenario: A music player plays songs one after another and can dynamically add/remove songs.<br>
-  🔗 [Coming Soon]()<br>
+  🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/blob/Workshop/MusicPlayer.java)<br>
 
 📝 Note:
 Each topic’s code is organized in its dedicated branch — but this main README connects everything.
