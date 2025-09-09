@@ -196,5 +196,13 @@ Problem Statement 5 : 📦🚚✈️📬ParcelTracker – Delivery Chain Managem
   Topics: Regex, MetaCharacter, Quantifier, Common Patterns: Email Validation, Password Strength, Phone Number Format, Java Regex API : Pattern, Matcher, Methods: find(), matches(), replaceAll(), Introduction to JUnit Framework, JUnit Annotations, Writing Test Cases, Structure of a Test Class, Assertions<br>
   🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/tree/StreamAPI/RegexAndJunit/regex)<br>
 
+
+### 🛠️ Workshop Branch
+
+* 📅 07/08/25 (Thu) – Day 12 – Coding Review<br>
+  Problem Statement 14 : 🧾 MailGuard – Organizational Email Filtering System<br>
+  📘 Scenario: You’ve been assigned to develop MailGuard, a robust email filtering system for internal use within an organization. The system is designed to manage and validate employee email addresses to ensure that only legitimate, organization-standard emails are accepted. The system will be part of a larger enterprise tool that relies heavily on clean, validated communication data.<br>
+  🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/blob/Workshop/EmailFilteringSystem.java)<br>
+
 * 📝 Note:
 Each topic’s code is organized in its dedicated branch — but this main README connects everything.
