@@ -175,5 +175,10 @@ Problem Statement 5 : 📦🚚✈️📬ParcelTracker – Delivery Chain Managem
   Problem Statement 12 : 🧑‍🎓 GradeBook – Student Marks Report System<br>
   📘 Scenario: You’ve been brought in to develop a backend logic for GradeBook, a marks-reporting system for schools and coaching centers. The application will allow staff to store, analyze, and compare student performance based on their academic marks. Your goal is to design a flexible and efficient system that keeps track of multiple marks for each student and provides insightful performance metrics.<br>
   🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/blob/Workshop/StudentMarksReport.java)<br>
+
+* 📅 28/07/25 (Mon) – Day 11 – Coding Review<br>
+  Problem Statement 13 : 🎓 StudentPro – Smart Student Management System<br>
+  📘 Scenario: You’ve joined an EdTech company developing StudentPro, a student management system for schools and colleges. Your task is to implement the core backend logic to manage student records efficiently. The system should allow staff to maintain student data, retrieve academic details, and perform sorting/filtering based on grades and subjects.<br>
+  🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/blob/Workshop/StudentManagementSystemApp.java)<br>
 * 📝 Note:
 Each topic’s code is organized in its dedicated branch — but this main README connects everything.
