@@ -158,5 +158,11 @@ Problem Statement 5 : 📦🚚✈️📬ParcelTracker – Delivery Chain Managem
   📘 Scenario: A music player plays songs one after another and can dynamically add/remove songs.<br>
   🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/blob/Workshop/MusicPlayer.java)<br>
 
-📝 Note:
+### 🧰 Generics Branch
+
+* 📅 21/07/25 (Mon) – Day 8 – Coding Review<br>
+  Topics : Introduction to Generics, Type Parameters, Generic Classes, Generic Methods, Bounded Type Parameters, Wildcards
+  🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/tree/Generics/Generic)<br>
+
+* 📝 Note:
 Each topic’s code is organized in its dedicated branch — but this main README connects everything.
