@@ -240,8 +240,8 @@ Each entry includes concepts covered, skills practiced, and links to the exact c
 ### 🚀 StreamAPI Branch
 
 * 📅 04/09/25 (Thu) – Day 8 – Annotations And Reflections <br>
-  Topics: Lambda Expressions, Method References, Target typing, Closures, Ambiguity And Overloads.  <br>
-  🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/tree/StreamAPI/LambdaExpressions)<br>
+  Topics: Introduction to Annotations : Common Built-in Annotations, Creating Custom Annotations, Advanced Custom Annotations, Real-World Use Cases, Annotation Processing Tools, Reflection : Understanding of Reflection, Using Reflection in Java, Annotations and Reflection<br>
+  🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/tree/StreamAPI/JavaReflectionsAndAnnotation)<br>
 
 
 * 📝 Note:
