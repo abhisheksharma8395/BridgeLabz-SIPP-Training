@@ -186,7 +186,7 @@ Each entry includes concepts covered, skills practiced, and links to the exact c
 
 * 📅 29/07/25 (Tue) – Day 1 – Java Streams <br>
   Topics: Java I/O Streams, Types of Streams, File Streams, Object Streams, ByteArray Streams, Buffered Streams, Reader and Writer, Key Considerations, Best Practices<br>
-  🔗 [Coming Soon]()<br>
+  🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/tree/StreamAPI/Stream)<br>
 
 * 📅 01/08/25 (Fri) – Day 2 – Exception Handling <br>
   Topics: Types of Exceptions, Checked Exceptions, Unchecked Exceptions, Custom Exceptions, Handling Exceptions, try-catch blocks, try-catch-finally blocks, try-with-resources statement, throws clause, throw statement, Creating Custom Exceptions, Extending Exception Class, Defining Constructors<br>
