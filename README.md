@@ -204,10 +204,45 @@ Each entry includes concepts covered, skills practiced, and links to the exact c
   📘 Scenario: You’ve been assigned to develop MailGuard, a robust email filtering system for internal use within an organization. The system is designed to manage and validate employee email addresses to ensure that only legitimate, organization-standard emails are accepted. The system will be part of a larger enterprise tool that relies heavily on clean, validated communication data.<br>
   🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/blob/Workshop/EmailFilteringSystem.java)<br>
 
-* 📅 08/08/25 (Thu) – Day 13 – Coding Review<br>
+* 📅 08/08/25 (Fri) – Day 13 – Coding Review<br>
   Problem Statement 15 : 🧑‍🏫 UniExam – Online Examination Portal<br>
   📘 Scenario: You’ve been assigned to develop UniExam, an online exam system for a university that supports multiple subjects, question types, and real-time scoring. This system will allow students to select subjects, answer questions, and receive their scores automatically. It should be flexible enough to accommodate different question formats and answer types using generics, ensuring it can scale in the future.<br>
   🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/blob/Workshop/OnlineExamSystem.java)<br>
+
+
+### 🚀 StreamAPI Branch
+
+* 📅 11/08/25 (Mon) – Day 4 – Lambda Expressions <br>
+  Topics: Lambda Expressions, Method References, Target typing, Closures, Ambiguity And Overloads.  <br>
+  🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/tree/StreamAPI/LambdaExpressions)<br>
+
+* 📅 25/08/25 (Mon) – Day 5 – Functional Interface <br>
+  Topics: Defining and Implementing Interfaces (Best Practices), Functional Interfaces, Default and Static Methods in Interfaces, Marker Interfaces<br>
+  🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/tree/StreamAPI/FunctionalInterfaces)<br>
+
+* 📅 26/08/25 (Tue) – Day 6 – Stream Api <br>
+  Topics: Intermediate operations: filter, map, flatMap, distinct, sorted, peek, limit, skip.Terminal operations: collect, forEach, reduce, count, anyMatch, allMatch, noneMatch. Stateless vs stateful operations: filter is stateless, sorted and distinct are stateful.Ordered vs unordered streams.Parallel streams.forEach() — Iterable vs Stream<br>
+  🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/tree/StreamAPI/streamAPI)<br>
+
+* 📅 27/08/25 (Wed) – Day 7 – Collectors <br>
+  Topics: Collectors And Its Roles And Capabilities , Converting Streams to Collections, 2. Mapping to a Map , Joining Strings, Grouping Data, Partitioning Data, Summarizing Statistics<br>
+  🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/tree/StreamAPI/collectors)<br>
+
+
+### 🛠️ Workshop Branch
+
+* 📅 01/09/25 (Mon) – Day 14 – Coding Review<br>
+  Problem Statement 14 : 🚦 Smart City Transport & Service Management System<br>
+  📘 Scenario: The City Council is building a futuristic, integrated system named SmartCityConnect that manages public transport (buses, metros, taxis) and EV services (charging stations). Your task is to develop the backend system using modern Java 8 features for real-time operations, data aggregation, extensibility, and cleaner code. <br>
+  🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/blob/Workshop/SmartCityTransportSystem.java)<br>
+
+
+### 🚀 StreamAPI Branch
+
+* 📅 04/09/25 (Thu) – Day 8 – Annotations And Reflections <br>
+  Topics: Lambda Expressions, Method References, Target typing, Closures, Ambiguity And Overloads.  <br>
+  🔗 [Code](https://github.com/abhisheksharma8395/BridgeLabz-SIPP-Training/tree/StreamAPI/LambdaExpressions)<br>
+
 
 * 📝 Note:
   Each topic’s code is organized in its dedicated branch — but this main README connects everything.
